@@ -2,16 +2,24 @@
   <img src="helloworld.gif" width="150"/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </div>
 
+<div>
+
+Passionate about bringing digital ideas to life, I am always on the lookout for the next big thing in technology. My current focus areas are Crypto and Blockchain. I have a diverse skill set that includes HTML5, CSS, JavaScript, Bootstrap, PHP, React, NextJS, Redux, MySQL, NodeJS, AWS, and WordPress. I actively contribute to projects such as Solana tools, decentralized applications, and smart contract integration. My goal is to innovate and create impactful digital solutions.
+  
+</div>
+
+---
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=devolution007&theme=meta-dark&border_radius=5&mode=weekly&background=80%2C000000%2C0088EB)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=devolution007&theme=meta-dark&border_radius=5&card_width=1000&card_height=300&mode=weekly&background=80%2C000000%2C0088EB)](https://git.io/streak-stats)
   
 </div>
 
 ---
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=devolution007&theme=algolia&margin-w=15&margin-h=15&column=3)](https://github.com/devolution007/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=devolution007&theme=algolia&margin-w=15&margin-h=15&column=9)](https://github.com/devolution007/)
 
 </div>
 
