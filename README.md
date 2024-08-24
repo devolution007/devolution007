@@ -1,11 +1,20 @@
+
 <div id="header" align="center">
   <img src="helloworld.gif" width="150"/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </div>
 
-<div>
+---
 
-Passionate about bringing digital ideas to life, I am always on the lookout for the next big thing in technology. My current focus areas are Crypto and Blockchain. I have a diverse skill set that includes HTML5, CSS, JavaScript, Bootstrap, PHP, React, NextJS, Redux, MySQL, NodeJS, AWS, and WordPress. I actively contribute to projects such as Solana tools, decentralized applications, and smart contract integration. My goal is to innovate and create impactful digital solutions.
+<div align="center">
   
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=devolution007&theme=viridescent&data=followers,repositories,stars,commits)](https://github.com/devolution007)
+
+</div>
+
+---
+
+<div>
+Passionate about bringing digital ideas to life, I am always on the lookout for the next big thing in technology. My current focus areas are Crypto and Blockchain. I have a diverse skill set that includes HTML5, CSS, JavaScript, Bootstrap, PHP, React, NextJS, Redux, MySQL, NodeJS, AWS, and WordPress. I actively contribute to projects such as Solana tools, decentralized applications, and smart contract integration. My goal is to innovate and create impactful digital solutions.
 </div>
 
 ---
