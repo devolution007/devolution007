@@ -17,7 +17,7 @@ Passionate about bringing digital ideas to life, I am always on the lookout for 
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=devolution007\&theme=meta-dark\&border_radius=5\&card_width=1000\&card_height=300\&mode=weekly\&background=80%2C000000%2C0088EB)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=devolution007\&theme=meta-dark\&border_radius=5\&card_width=900\&card_height=300\&mode=weekly\&background=80%2C000000%2C0088EB)](https://git.io/streak-stats)
 
 </div>
 
@@ -35,10 +35,10 @@ Passionate about bringing digital ideas to life, I am always on the lookout for 
 
 # 📊 GitHub Stats:
 
-<img height="297" width="690" src="https://github-readme-stats.vercel.app/api?username=devolution007&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+<img height="auto" width="500" src="https://github-readme-stats.vercel.app/api?username=devolution007&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
 
-<img height="380" width="690" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devolution007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<img height="auto" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devolution007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 # 🔝 Top Contributed Repo
 
-<img height="381" width="690" src="https://github-contributor-stats.vercel.app/api?username=devolution007&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+<img height="auto" width="500" src="https://github-contributor-stats.vercel.app/api?username=devolution007&limit=5&theme=dark&combine_all_yearly_contributions=true" />
