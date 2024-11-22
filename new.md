@@ -35,15 +35,10 @@ Passionate about bringing digital ideas to life, I am always on the lookout for 
 
 # 📊 GitHub Stats:
 
-<img height="297" width="692" src="https://github-readme-stats.vercel.app/api?username=devolution007&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+<img height="297" width="690" src="https://github-readme-stats.vercel.app/api?username=devolution007&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
 
-<br />
-
-
-<img height="380" width="691" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devolution007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-
-
+<img height="380" width="690" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devolution007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 # 🔝 Top Contributed Repo
 
-<img height="381" width="692" src="https://github-contributor-stats.vercel.app/api?username=devolution007&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+<img height="381" width="690" src="https://github-contributor-stats.vercel.app/api?username=devolution007&limit=5&theme=dark&combine_all_yearly_contributions=true" />
