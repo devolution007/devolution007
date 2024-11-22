@@ -17,7 +17,7 @@ Passionate about bringing digital ideas to life, I am always on the lookout for 
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=devolution007\&theme=meta-dark\&border_radius=5\&card_width=900\&card_height=300\&mode=weekly\&background=80%2C000000%2C0088EB)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=devolution007\&theme=meta-dark\&border_radius=5\&card_width=900\&card_height=auto\&mode=weekly\&background=80%2C000000%2C0088EB)](https://git.io/streak-stats)
 
 </div>
 
