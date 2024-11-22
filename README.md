@@ -15,9 +15,9 @@
 
 Passionate about bringing digital ideas to life, I am always on the lookout for the next big thing in technology. My current focus areas are Crypto and Blockchain. I have a diverse skill set that includes HTML5, CSS, JavaScript, Bootstrap, PHP, React, NextJS, Redux, MySQL, NodeJS, AWS, and WordPress. I actively contribute to projects such as Solana tools, decentralized applications, and smart contract integration. My goal is to innovate and create impactful digital solutions.
 
-<div align="center">
+<div align="left">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=devolution007\&theme=meta-dark\&border_radius=5\&card_width=750\&card_height=auto\&mode=weekly\&background=80%2C000000%2C0088EB)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=devolution007\&theme=meta-dark\&border_radius=5\&card_width=700\&card_height=auto\&mode=weekly\&background=80%2C000000%2C0088EB)](https://git.io/streak-stats)
 
 </div>
 
