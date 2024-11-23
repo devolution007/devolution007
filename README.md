@@ -29,7 +29,7 @@ Passionate about bringing digital ideas to life, I am always on the lookout for 
 
 <div align="left">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=devolution007\&theme=algolia\&margin-w=15\&margin-h=15\&column=9)](https://github.com/devolution007/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=devolution007\&theme=algolia\&margin-w=15\&margin-h=15\&column=9)](https://github.com/devolution007/)
   
 </div>
 
