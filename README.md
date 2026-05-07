@@ -32,13 +32,3 @@ Passionate about bringing digital ideas to life, I am always on the lookout for 
 [![trophy](https://github-profile-trophy.vercel.app/?username=devolution007\&theme=algolia\&margin-w=15\&margin-h=15\&column=9)](https://github.com/devolution007/)
   
 </div>
-
-# 📊 GitHub Stats:
-
-<img height="auto" width="500" src="https://github-readme-stats.vercel.app/api?username=devolution007&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-
-<img height="auto" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devolution007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-
-# 🔝 Top Contributed Repo
-
-<img height="auto" width="500" src="https://github-contributor-stats.vercel.app/api?username=devolution007&limit=5&theme=dark&combine_all_yearly_contributions=true" />
